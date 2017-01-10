@@ -8,7 +8,7 @@ Cloning, pushing, and resolving merge conflicts were clarified during the GPS.
 
 3. What questions did you ask your pair and the guide?
 
-We asked about the differences between git pull, git merge, and git fetch.
+We asked about the differences between git pull, git merge, and git fetch. We also asked why the commite message is always typed in present tense.
 
 4. What still confuses you about Git?
 
